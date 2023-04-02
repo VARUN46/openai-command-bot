@@ -5,3 +5,19 @@
 
 <p>Below diagram highlights the high level idea</p>
 <img src="architecture1.png"/>
+
+<h2>Technology Stack</h2>
+<h3>Frontend</h3>
+<ul>
+<li>React.js</li>
+<li>Next.js</li>
+<li>Typescript</li>
+<li>JSX and CSS</li>
+</ul>
+
+<h3>Backend</h3>
+<ul>
+<li>.NET 7</li>
+<li>C#</li>
+<li>Web API</li>
+</ul>
