@@ -1,4 +1,5 @@
 # openai-command-bot
+<h1>Add stars so I can start coding</h1>
 <p>You can do a lot of stuff without training Open AI. Use it as a command bot to transfer intent and action to control AI bot.</p>
 
 <p>It will work as orchestrator bot and your private AI Model can perform work based on instructions shared</p>
